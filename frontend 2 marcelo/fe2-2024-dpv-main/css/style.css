@@ -1,0 +1,17 @@
+.gradienteMenu {
+  background: rgb(11, 182, 204);
+  background: linear-gradient(
+    90deg,
+    rgba(11, 182, 204, 1) 0%,
+    rgba(176, 195, 199, 1) 100%
+  );
+}
+p{
+background-color: aquamarine;
+}
+#menu{
+background-color: darkgray;
+}
+.menu{
+background-color:gold;
+}
